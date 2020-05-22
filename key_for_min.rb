@@ -9,7 +9,7 @@ name_hash.each do |key, value|
     current_minimum_val = nil
     current_key_assoc_w_min_val = key
   else
-    
+    if 
  end
 end
 end
