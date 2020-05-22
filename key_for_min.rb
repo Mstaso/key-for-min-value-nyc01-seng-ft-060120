@@ -8,8 +8,8 @@ name_hash.each do |key, value|
   if current_minimum_val == nil
     current_minimum_val = nil
     current_key_assoc_w_min_val = key
-  else
-    if 
+  elsif
+  
  end
 end
 end
